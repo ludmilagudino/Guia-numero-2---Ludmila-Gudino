@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Guia n2 - Ludmila Gudi\u00F1o\\Ejercicio11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1288B49E-D4A4-4197-9531-BEE586AFE114}|Ejercicio11\\Ejercicio11.vcxproj|C:\\Users\\Usuario\\Desktop\\Guia n2 - Ludmila Gudi\u00F1o\\Ejercicio11\\Ejercicio11\\Ejercicio11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1288B49E-D4A4-4197-9531-BEE586AFE114}|Ejercicio11\\Ejercicio11.vcxproj|solutionrelative:Ejercicio11\\Ejercicio11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1288B49E-D4A4-4197-9531-BEE586AFE114}|Ejercicio11\\Ejercicio11.vcxproj|C:\\Users\\Usuario\\Desktop\\Guia n2 - Ludmila Gudi\u00F1o\\Ejercicio11\\Ejercicio11\\Ejercicio11.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1288B49E-D4A4-4197-9531-BEE586AFE114}|Ejercicio11\\Ejercicio11.vcxproj|solutionrelative:Ejercicio11\\Ejercicio11.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ejercicio11.h",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Guia n2 - Ludmila Gudi\u00F1o\\Ejercicio11\\Ejercicio11\\Ejercicio11.h",
+              "RelativeDocumentMoniker": "Ejercicio11\\Ejercicio11.h",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Guia n2 - Ludmila Gudi\u00F1o\\Ejercicio11\\Ejercicio11\\Ejercicio11.h",
+              "RelativeToolTip": "Ejercicio11\\Ejercicio11.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-21T21:32:55.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejercicio11.cpp",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Guia n2 - Ludmila Gudi\u00F1o\\Ejercicio11\\Ejercicio11\\Ejercicio11.cpp",
+              "RelativeDocumentMoniker": "Ejercicio11\\Ejercicio11.cpp",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Guia n2 - Ludmila Gudi\u00F1o\\Ejercicio11\\Ejercicio11\\Ejercicio11.cpp",
+              "RelativeToolTip": "Ejercicio11\\Ejercicio11.cpp",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAGAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-21T21:32:43.443Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
